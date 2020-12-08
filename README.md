@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 Sou desenvolvedor backend, web, mobile, desktop. Trabalho com as mais novas tecnologias do mercado trazendo consigo a melhor experiencia para os usuarios. Fazendo sites dinâmicos
-para melhor experiência para todos. Sistemas das mais variadas formas, tudo de acordo com suas necessidades.
+para melhor navegação para todos. Sistemas das mais variadas formas, tudo de acordo com suas necessidades.
 
 ### Veja alguns dos meu trabalhos
 - [Itabaú Sorvetes Naturais](https://www.itabau.com.br)🍦‍🍨 - Site para uma empresa de Sorvetes Órganicos e Naturais para uma melhor aproximção entre eles e seus clientes.
