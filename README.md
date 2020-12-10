@@ -3,7 +3,7 @@
 ### Sobre Mim
 Sou desenvolvedor backend, web, mobile, desktop. Trabalho com as mais novas tecnologias do mercado trazendo consigo a melhor qualidade e desempenho. Fazendo designs dinâmicos
 garantindo a melhor experiência ao usuário. Sistemas das mais variadas formase tamanhos, tudo de acordo com suas necessidades.
-Entre em contato comigo em [luisricado0626@gmail.com](mailto://luisricado0626@gmail.com) ou via WhatsApp [12-99793-4043](tel://(12)99793-4043)
+Entre em contato comigo em [luisricado0626@gmail.com](mailto://luisricado0626@gmail.com) ou via WhatsApp [12-99793-4043](https://api.whatsapp.com/send?phone=5512997934043&text=Ol%C3!)
 
 ### Veja alguns dos meu trabalhos
 
