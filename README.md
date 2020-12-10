@@ -18,6 +18,7 @@ Entre em contato comigo em [luisricado0626@gmail.com](mailto://luisricado0626@gm
 
 #### [GetJob](https://thegetjob.herokuapp.com/) 👨‍🏭 - Plataforma para encontrar empregos para área de informática feito como TCC.
 <img src="https://user-images.githubusercontent.com/39037985/101824093-7eeb6580-3b0a-11eb-93c8-dfd5a28c6285.jpg" width="80%" align="center" style="margin:auto"/>
+<img src="https://user-images.githubusercontent.com/39037985/101826631-071f3a00-3b0e-11eb-9525-6947d4e116a7.jpg" width="30%" align="center" style="margin:auto"/>
 
 #### [Game Snake](https://luiss1569.github.io/Jogo-Snake/) 🐍 - Famoso jogo da cobrinha feito em JS puro.
 <img src="https://user-images.githubusercontent.com/39037985/101823915-3df35100-3b0a-11eb-869a-b667eb9f0757.jpg" width="80%" align="center" style="margin:auto"/>
