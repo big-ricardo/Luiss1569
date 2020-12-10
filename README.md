@@ -1,8 +1,9 @@
-# Olá, Sou Luis! :D
+# Olá, Bem Vindo! :D
+> Criação de sites, aplicativos, sistemas... 100% a sua cara! 
 
 ### Sobre Mim
 Sou desenvolvedor backend, web, mobile, desktop. Trabalho com as mais novas tecnologias do mercado trazendo consigo a melhor qualidade e desempenho. Fazendo designs dinâmicos
-garantindo a melhor experiência ao usuário. Sistemas das mais variadas formase tamanhos, tudo de acordo com suas necessidades.
+garantindo a melhor experiência ao usuário. Sistemas das mais variadas formas e tamanhos, tudo de acordo com suas necessidades.
 Entre em contato comigo em [luisricado0626@gmail.com](mailto://luisricado0626@gmail.com) ou via WhatsApp [12-99793-4043](https://api.whatsapp.com/send?phone=5512997934043&text=ola%20Luis!)
 
 ### Veja alguns dos meu trabalhos
@@ -24,3 +25,4 @@ Entre em contato comigo em [luisricado0626@gmail.com](mailto://luisricado0626@gm
 <img src="https://user-images.githubusercontent.com/39037985/101823915-3df35100-3b0a-11eb-869a-b667eb9f0757.jpg" width="80%" align="center" style="margin:auto"/>
 
 
+ 
