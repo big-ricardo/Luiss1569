@@ -9,7 +9,7 @@ Entre em contato comigo em [luisricado0626@gmail.com](mailto://luisricado0626@gm
 ### Veja alguns dos meu trabalhos
 
 #### [Itabaú Sorvetes Naturais](https://www.itabau.com.br)🍦‍🍨 - Site desenvolvido para a empresa Itabaú uma marca de Sorvetes Órganicos e Naturais.Um site bem dinâmico e audacioso para uma melhor aproximação entre eles e seus clientes.
-<img src="https://user-images.githubusercontent.com/39037985/101822790-a6d9c980-3b08-11eb-96bf-5d774b720c2f.jpg" width="80%" align="center" style="margin:auto"/>
+<img src="https://user-images.githubusercontent.com/39037985/102536441-5f16ed00-4088-11eb-87d9-3152d74ad3c3.jpg" width="80%" align="center" style="margin:auto"/>
 
 #### [Babearia Medeiros](https://luiss1569.github.io/Site-Medeiros/) ✍🏼 - Site desenvolvido como exemplo para uma barbearia.
 <img src="https://user-images.githubusercontent.com/39037985/101823439-82cab800-3b09-11eb-9385-486abc9464c4.jpg" width="80%" align="center" style="margin:auto"/>
