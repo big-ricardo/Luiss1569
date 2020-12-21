@@ -1,7 +1,7 @@
 # Olá, Bem Vindo! :D
 > Criação de sites, aplicativos, sistemas... 100% a sua cara! 
 
-Acesse meu site para saber mais em http://luisricardo.me/Portifolio
+Acesse meu site para saber mais em http://luisricardo.me
 
 ### Sobre Mim
 Sou desenvolvedor backend, web, mobile, desktop. Trabalho com as mais novas tecnologias do mercado trazendo consigo a melhor qualidade e desempenho. Fazendo designs dinâmicos
