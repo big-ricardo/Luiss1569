@@ -1,13 +1,6 @@
 # Olá, Bem Vindo! :D
 > Criação de sites, aplicativos, sistemas... 100% a sua cara! 
 
-Acesse meu site para saber mais em https://luisricardo.me
-
-### Sobre Mim
-Sou desenvolvedor backend, web, mobile, desktop. Trabalho com as mais novas tecnologias do mercado trazendo consigo a melhor qualidade e desempenho. Fazendo designs dinâmicos
-garantindo a melhor experiência ao usuário. Sistemas das mais variadas formas e tamanhos, tudo de acordo com suas necessidades.
-Entre em contato comigo em [luisricado0626@gmail.com](mailto://luisricado0626@gmail.com)
-
 ### Veja alguns dos meu trabalhos
 
 #### [Itabaú Sorvetes Naturais](https://www.itabau.com.br)🍦‍🍨 - Site desenvolvido para a empresa Itabaú uma marca de Sorvetes Órganicos e Naturais.Um site bem dinâmico e audacioso para uma melhor aproximação entre eles e seus clientes. Veja aqui: https://www.itabau.com.br
