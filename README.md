@@ -3,6 +3,9 @@
 
 ### Veja alguns dos meu trabalhos
 
+#### [Educação Bento](https://educacaobento.vercel.app)📚🎒- Site desenvolvido com uma ideia para ajudar vestibulandos disponibilizando publicações com matérias sobre Enem. Veja aqui: https://educacaobento.vercel.app
+<img src="https://user-images.githubusercontent.com/39037985/113757626-32dfb480-96e9-11eb-9a2a-f4a1d33a4aee.jpg" width="80%" align="center" style="margin:auto"/>
+
 #### [Itabaú Sorvetes Naturais](https://www.itabau.com.br)🍦‍🍨 - Site desenvolvido para a empresa Itabaú uma marca de Sorvetes Órganicos e Naturais.Um site bem dinâmico e audacioso para uma melhor aproximação entre eles e seus clientes. Veja aqui: https://www.itabau.com.br
 <img src="https://user-images.githubusercontent.com/39037985/102536441-5f16ed00-4088-11eb-87d9-3152d74ad3c3.jpg" width="80%" align="center" style="margin:auto"/>
 
