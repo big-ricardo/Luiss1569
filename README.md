@@ -1,7 +1,6 @@
 # Olá, Bem Vindo! :D
-> Criação de sites, aplicativos, sistemas... 100% a sua cara! 
 
-### Veja alguns dos meu trabalhos
+### Veja alguns dos meus projetos
 
 #### [Educação Bento](https://educacaobento.vercel.app)📚🎒- Site desenvolvido com uma ideia para ajudar vestibulandos disponibilizando publicações com matérias sobre Enem. Veja aqui: https://educacaobento.vercel.app
 <img src="https://user-images.githubusercontent.com/39037985/113757626-32dfb480-96e9-11eb-9a2a-f4a1d33a4aee.jpg" width="80%" align="center" style="margin:auto"/>
