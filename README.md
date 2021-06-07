@@ -1,5 +1,8 @@
 # Olá, Bem Vindo! :D
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luiss1569&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiss1569&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Veja alguns dos meus projetos no ar:
 
 #### [Educação Bento](https://educacaobento.vercel.app)📚🎒- Site desenvolvido com uma ideia para ajudar vestibulandos disponibilizando publicações com matérias sobre Enem. Veja aqui: https://educacaobento.vercel.app
