@@ -14,6 +14,6 @@
 
 #### 🎰[Jogo da Velha](https://jogodaveia.herokuapp.com/) - Jogo da velha multiplayer ou single-player para de todos feito para diversão nessa quarentena. Entre aqui: https://jogodaveia.herokuapp.com
 
-#### [GetJob](https://thegetjob.herokuapp.com/) 👨‍🏭 - Plataforma para encontrar empregos para área de informática feito como TCC. Clique aqui: (https://thegetjob.herokuapp.com
+#### 🏭👨‍ [GetJob](https://thegetjob.herokuapp.com/) - Plataforma para encontrar empregos para área de informática feito como TCC. Clique aqui: (https://thegetjob.herokuapp.com
 
 #### 🐍[Reactor Among](https://luisricardo.me/reactor-among-us/) - Famoso jogo da memoria no estilo Among us feito em HTML, CSS e JS puro. Jogue aqui: https://luisricardo.me/reactor-among-us/
