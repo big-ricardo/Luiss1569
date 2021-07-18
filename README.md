@@ -26,7 +26,7 @@
 
 ### Veja alguns dos meus projetos no ar:
 
-#### 📚🎒[Educação Bento](https://educacaobento.vercel.app) - Site desenvolvido com uma ideia para ajudar vestibulandos disponibilizando publicações com matérias sobre Enem. Veja aqui: https://educacaobento.vercel.app
+#### 📚🎒[Educação Bento](https://www.educacaobento.com.br) - Site desenvolvido com uma ideia para ajudar vestibulandos disponibilizando publicações com matérias sobre Enem. Veja aqui: https://www.educacaobento.com.br
 
 #### 🍦‍🍨[Itabaú Sorvetes Naturais](https://www.itabau.com.br) - Site desenvolvido para a empresa Itabaú uma marca de Sorvetes Órganicos e Naturais.Um site bem dinâmico e audacioso para uma melhor aproximação entre eles e seus clientes. Veja aqui: https://www.itabau.com.br
 
