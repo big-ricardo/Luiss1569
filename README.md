@@ -1,6 +1,8 @@
 # Olá, Bem Vindo! :D
 
 
+<p>Sou Luis Ricardo, tenho 19 anos, sou formado como Técnico em Informática pelo Cep- Centro Educação Profissional Tancredo Neves, atualmente estou cursando Sistemas da Informação na Universidade Federal de Itajubá - UNIFEI. Também trabalho como desenvolvedor FullStack como estagiário na empresa Tech4Humans Brasil.</p>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luiss1569&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiss1569&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
