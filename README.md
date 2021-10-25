@@ -38,4 +38,4 @@
 
 #### 🏭👨‍ [GetJob](https://thegetjob.herokuapp.com/) - Plataforma para encontrar empregos para área de informática feito como TCC. Clique aqui: (https://thegetjob.herokuapp.com
 
-#### 🐍[Reactor Among](https://luisricardo.me/reactor-among-us/) - Famoso jogo da memoria no estilo Among us feito em HTML, CSS e JS puro. Jogue aqui: https://luisricardo.me/reactor-among-us/
+#### 🐍[Reactor Among](https://luiss1569.github.io/reactor-among-us/) - Famoso jogo da memoria no estilo Among us feito em HTML, CSS e JS puro. Jogue aqui: https://luiss1569.github.io/reactor-among-us/
