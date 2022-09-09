@@ -1,7 +1,11 @@
 # Olá, Bem Vindo! :D
 
 
-<p>Sou Luis Ricardo, tenho 20 anos, sou formado como Técnico em Informática pelo Cep- Centro Educação Profissional Tancredo Neves, atualmente estou cursando Sistemas da Informação na Universidade Federal de Itajubá - UNIFEI. Também trabalho como desenvolvedor FullStack Pleno na empresa Tech4Humans Brasil.</p>
+Sou Luis Ricardo, tenho 20 anos, sou formado como Técnico em Informática pelo Cep- Centro Educação Profissional Tancredo Neves, atualmente estou cursando Sistemas da Informação na Universidade Federal de Itajubá - UNIFEI. 
+
+Trabalho com diversas tecnologias como NodeJs, PostgreSQL, Redis, Serveless, Devops, React, Redux, Redux-Saga, Sass, CSS-in-JS. Além disso aprendi como trabalhar com soluções de problemas, lidar bem com pressão, mudança de contexto, ser autoconfiante, ser comunicativo, dar feedbacks constantes e lidar muito bem com demandas vindas direto dos clientes. 
+
+Atualmente atuo como Desenvolvedor FullStack Pleno atuando principalmente com demandas de frontend contribuindo para o crescimento do produto da Tech4humans e também com o desenvolvimento do meu time.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luiss1569&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiss1569&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
